@@ -3,9 +3,9 @@
 
 1. a Shape constructor has a 
   
-  name property
+  	- name property
 
-	sides property (number)
+	- sides property (number)
 
 2. a Rectangle is a shape
 	
